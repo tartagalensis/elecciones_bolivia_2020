@@ -49,6 +49,7 @@ bolivia_grid <- data.frame(
 
 grid_preview(bolivia_grid)
 
+grid_submit(bolivia_grid)
 
 ## COLORES DE CANDIDATOS + RELEVANTES
 cols_fza_pol <- c("creemos" =  "magenta",
